@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="multithreading-in-java-USMANKHALID-GH" target="11.0.11" />
+      <module name="multithreading-in-java-USMANKHALID-GH" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
